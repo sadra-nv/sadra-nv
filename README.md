@@ -1,4 +1,4 @@
-- 👋 Hello There, My name is Sadra and Im a junior NextJS developer
+- 👋 Hello There, My name is Sadra Najfi, Im a NextJS developer
 
 <!---
 sadra-nv/sadra-nv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
